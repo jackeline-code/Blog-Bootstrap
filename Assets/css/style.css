@@ -1,0 +1,95 @@
+/* Estilos da página index.html */
+.img-dorama{
+    width: 15vw;
+    height: 45vh;
+    padding: 15px;
+}
+.container {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+/* Estilos da página sobreMim.html */
+.p{
+    font-size: 30px;
+}
+.justify{
+    text-align: justify;
+}
+.center{
+    text-align: center;
+}
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+}
+#menu li{
+    display: inline;
+    padding: 15px;
+    
+}
+#menu li a{
+    text-decoration: none;
+    color: blueviolet;
+    font-size: 20px;
+}
+#menu li a:hover{
+    color: aqua;
+}
+.p-30{
+    padding: 50px;
+}
+.tm-social{
+    width: 30px;
+    height: 30px;
+    padding: 15px;
+}
+.mg-50{
+    margin-bottom: 50px;
+}
+.img-criador{
+    width: 15vw;
+    height: 25vh;
+    padding: 15px;
+}
+
+/* Estilos da página contato.html */
+
+.mg-50{
+    margin-bottom: 50px;
+}
+
+
+/* Estilos da página resenha.html */
+.cores{
+    color: violet;
+        text-align: center;
+}
+.img-doom{
+    width: 60vw;
+    height: 60vh;
+    padding: 15px;
+}
+.center{
+    text-align: center;
+}
+
+/* Estilos da Navbar */
+.corNav{
+    background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+}
+.corBtn{
+    color: #090979;
+}
+
+.corFundo{
+    background-color: #94bbe9;
+}
+
+.corJumb{
+    background-color: #eeaeca;
+}
+
